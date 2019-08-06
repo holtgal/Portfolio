@@ -87,6 +87,12 @@ hr.line {
 .clear{
 	clear:both
 }
+#GHbutton{
+    position: relative;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: none !important;
+}
 
 input::-moz-placeholder,
 textarea::-moz-placeholder,
@@ -1897,6 +1903,7 @@ select {
 #scrollUp:hover {
 	background: #000000 none repeat scroll 0 0;
 }
+
 
 
 /*====================================================================
